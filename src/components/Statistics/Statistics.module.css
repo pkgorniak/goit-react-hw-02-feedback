@@ -1,0 +1,8 @@
+.statisticItem {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.statisticItem:not(:last-of-type) {
+  margin-bottom: 10px;
+}
